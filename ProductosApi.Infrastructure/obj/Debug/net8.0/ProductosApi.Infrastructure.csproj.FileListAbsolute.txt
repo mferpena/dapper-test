@@ -1,0 +1,15 @@
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Infrastructure\bin\Debug\net8.0\ProductosApi.Infrastructure.deps.json
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Infrastructure\bin\Debug\net8.0\ProductosApi.Infrastructure.dll
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Infrastructure\bin\Debug\net8.0\ProductosApi.Infrastructure.pdb
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Infrastructure\bin\Debug\net8.0\ProductosApi.Domain.dll
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Infrastructure\bin\Debug\net8.0\ProductosApi.Domain.pdb
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Infrastructure\obj\Debug\net8.0\ProductosApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Infrastructure\obj\Debug\net8.0\ProductosApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Infrastructure\obj\Debug\net8.0\ProductosApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Infrastructure\obj\Debug\net8.0\ProductosApi.Infrastructure.AssemblyInfo.cs
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Infrastructure\obj\Debug\net8.0\ProductosApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Infrastructure\obj\Debug\net8.0\Producto.A1BC701E.Up2Date
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Infrastructure\obj\Debug\net8.0\ProductosApi.Infrastructure.dll
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Infrastructure\obj\Debug\net8.0\refint\ProductosApi.Infrastructure.dll
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Infrastructure\obj\Debug\net8.0\ProductosApi.Infrastructure.pdb
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Infrastructure\obj\Debug\net8.0\ref\ProductosApi.Infrastructure.dll

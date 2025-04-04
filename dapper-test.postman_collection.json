@@ -1,0 +1,67 @@
+{
+	"info": {
+		"_postman_id": "50b2672a-6f83-4683-9444-acb1263221d4",
+		"name": "dapper-test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "31094567"
+	},
+	"item": [
+		{
+			"name": "http://localhost:5000/api/productos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5190/api/productos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5190",
+					"path": [
+						"api",
+						"productos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:5000/api/productos",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"nombre\": \"Camiseta\",\n    \"precio\": 29.99\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5190/api/productos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5190",
+					"path": [
+						"api",
+						"productos"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

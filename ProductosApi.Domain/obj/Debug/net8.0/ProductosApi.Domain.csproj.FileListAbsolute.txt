@@ -1,0 +1,11 @@
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Domain\bin\Debug\net8.0\ProductosApi.Domain.deps.json
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Domain\bin\Debug\net8.0\ProductosApi.Domain.dll
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Domain\bin\Debug\net8.0\ProductosApi.Domain.pdb
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Domain\obj\Debug\net8.0\ProductosApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Domain\obj\Debug\net8.0\ProductosApi.Domain.AssemblyInfoInputs.cache
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Domain\obj\Debug\net8.0\ProductosApi.Domain.AssemblyInfo.cs
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Domain\obj\Debug\net8.0\ProductosApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Domain\obj\Debug\net8.0\ProductosApi.Domain.dll
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Domain\obj\Debug\net8.0\refint\ProductosApi.Domain.dll
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Domain\obj\Debug\net8.0\ProductosApi.Domain.pdb
+C:\Users\mferpena\Documents\repositorios\0000\dapper-test\ProductosApi.Domain\obj\Debug\net8.0\ref\ProductosApi.Domain.dll
